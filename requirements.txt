@@ -1,1 +1,14 @@
-
+boto3
+awscli
+pandas
+numpy
+scikit-learn
+torch
+transformers
+datasets
+sentencepiece
+streamlit
+pyarrow
+joblib
+sagemaker
+black
